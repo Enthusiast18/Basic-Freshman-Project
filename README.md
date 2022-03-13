@@ -1,4 +1,4 @@
-# Basic-Freshman-Project
+# Billing System Project
 
 Shop Billing System
 
