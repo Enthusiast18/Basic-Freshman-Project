@@ -24,3 +24,11 @@ Manager has access to all utilities
 Employee has access to:
 - Checking product inventory
 - Creating a bill
+
+
+# Instructions:
+Follow instructions given in terminal.
+
+1- Run the Billing_System.cpp file.
+2- Sign in with ID and password from the Employees.csv file.
+3- 
