@@ -31,4 +31,4 @@ Follow instructions given in terminal.
 
 1- Run the Billing_System.cpp file.
 2- Sign in with ID and password from the Employees.csv file.
-3- 
+Follow on-screen instrcutions
